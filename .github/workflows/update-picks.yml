@@ -1,0 +1,128 @@
+name: Update picks
+
+on:
+  schedule:
+    # Every day at 15:17 UTC = 9:17 AM Chicago time in winter, 10:17 AM in summer.
+    - cron: "17 15 * * *"
+  # Adds a "Run workflow" button on the Actions tab so you can refresh any time.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-picks
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Get the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Install packages
+        run: pip install -r requirements.txt
+
+      # The raw game data is kept in GitHub's private cache between runs, not in the
+      # public repository. Only the very first run (or a run after the cache expires)
+      # has to download the full history.
+      - name: Restore saved data from the last run
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            work/cbb_data.zip
+            work/nfl_team_game_stats.csv
+            work/nfl_qb_game_stats.csv
+            work/nflverse_games_raw.csv
+          key: model-data-${{ github.run_id }}
+          restore-keys: model-data-
+
+      - name: Copy the notebooks into the work folder
+        run: |
+          mkdir -p work
+          cp notebooks/*.ipynb work/
+
+      # First run only (or if the cache was cleared): start from the encrypted copy of the
+      # college basketball history in seed/, so the notebook only downloads the newest games
+      # instead of every season since 2012 (about 360 API calls).
+      - name: Unlock the starting data if there is no saved copy
+        env:
+          SEED_PASSWORD: ${{ secrets.SEED_PASSWORD }}
+        run: |
+          if [ -f work/cbb_data.zip ]; then
+            echo "Using the data saved by the last run."
+          elif [ -n "$SEED_PASSWORD" ] && [ -f seed/cbb_data.zip.enc.part0 ]; then
+            cat seed/cbb_data.zip.enc.part* > work/seed.enc
+            openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in work/seed.enc -out work/cbb_data.zip -pass env:SEED_PASSWORD
+            rm work/seed.enc
+            echo "Unlocked the starting data from seed/."
+          else
+            echo "::warning::No saved data and no SEED_PASSWORD secret, so the notebook will download the full history (about 360 API calls)."
+          fi
+
+      - name: Run the college basketball model
+        id: cbb
+        continue-on-error: true
+        env:
+          CBBD_API_KEY: ${{ secrets.CBBD_API_KEY }}
+          MPLBACKEND: Agg
+        run: |
+          if [ -z "$CBBD_API_KEY" ]; then
+            echo "::error::The CBBD_API_KEY secret is missing. Add it under Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+          python scripts/run_notebook.py work/cbb_model.ipynb --fail-if-printed "Refresh failed"
+
+      - name: Run the NFL model
+        id: nfl
+        continue-on-error: true
+        env:
+          MPLBACKEND: Agg
+        run: python scripts/run_notebook.py work/nfl_model_final.ipynb
+
+      - name: Save data for the next run
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            work/cbb_data.zip
+            work/nfl_team_game_stats.csv
+            work/nfl_qb_game_stats.csv
+            work/nflverse_games_raw.csv
+          key: model-data-${{ github.run_id }}
+
+      - name: Copy the new pick files into data/
+        id: publish
+        continue-on-error: true
+        env:
+          CBB_OUTCOME: ${{ steps.cbb.outcome }}
+          NFL_OUTCOME: ${{ steps.nfl.outcome }}
+        run: python scripts/publish.py
+
+      - name: Commit and push data/
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "Update picks $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      # Marks the run red (and GitHub emails you) if either model had a problem.
+      - name: Report problems
+        if: steps.cbb.outcome != 'success' || steps.nfl.outcome != 'success' || steps.publish.outcome != 'success'
+        run: |
+          echo "College basketball: ${{ steps.cbb.outcome }}, NFL: ${{ steps.nfl.outcome }}, publish: ${{ steps.publish.outcome }}"
+          echo "Open the failed step above to see the error. The site keeps showing the last good files."
+          exit 1
