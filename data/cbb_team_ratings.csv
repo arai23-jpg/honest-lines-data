@@ -1,369 +1,369 @@
 rank,team,conference,games,offense,defense,tempo,elo,net
 1,Illinois,Big Ten,5,34.5,24.3,69.4,2050.5,58.9
-2,Houston,Big 12,5,29.7,28.4,66.1,2082.1,58.2
+2,Houston,Big 12,6,30.9,27.9,66.4,2104.8,58.8
 3,Duke,ACC,5,23.6,29.8,68.2,1973.3,53.4
-4,Kansas,Big 12,5,24.2,28.3,69.9,2026.9,52.4
-5,Michigan,Big Ten,4,26.2,25.9,70.9,2094.1,52.1
+4,Michigan,Big Ten,4,26.2,25.9,71.0,2094.1,52.1
+5,Kansas,Big 12,6,24.7,27.1,70.2,2004.2,51.8
 6,Florida,SEC,7,28.9,22.3,69.8,2073.4,51.2
 7,Vanderbilt,SEC,5,27.2,23.9,68.9,2022.6,51.1
 8,UConn,Big East,5,24.4,26.5,66.7,2034.4,50.9
-9,Michigan State,Big Ten,5,24.3,26.6,68.2,2001.8,50.8
+9,Michigan State,Big Ten,5,24.3,26.6,68.3,2001.8,50.8
 10,Nebraska,Big Ten,5,21.4,28.8,68.2,1980.8,50.2
-11,St. John's,Big East,5,23.0,27.1,70.4,2015.9,50.1
-12,UCLA,Big Ten,5,27.0,22.8,67.2,1994.2,49.8
-13,Arizona,Big 12,5,25.7,23.6,70.7,2093.3,49.3
-14,Missouri,SEC,5,25.9,22.6,68.4,1880.8,48.5
-15,Texas Tech,Big 12,5,17.6,30.6,68.0,1970.4,48.2
-16,Gonzaga,Pac-12,4,24.5,22.4,69.2,1820.3,46.9
+11,St. John's,Big East,5,23.0,27.1,70.5,2015.9,50.1
+12,UCLA,Big Ten,5,27.0,22.8,67.3,1994.2,49.8
+13,Arizona,Big 12,5,25.7,23.6,70.8,2093.3,49.3
+14,Missouri,SEC,5,25.9,22.6,68.5,1880.8,48.5
+15,Texas Tech,Big 12,5,17.6,30.6,68.1,1970.4,48.2
+16,Gonzaga,Pac-12,4,24.5,22.4,69.3,1820.3,46.9
 17,BYU,Big 12,5,26.5,19.9,70.3,1956.5,46.5
-18,Texas,SEC,4,26.6,19.5,68.7,1952.6,46.1
-19,Alabama,SEC,5,28.7,16.8,73.3,2025.5,45.4
-20,Tennessee,SEC,4,16.0,29.4,67.2,2035.0,45.4
-21,Baylor,Big 12,5,23.4,21.8,68.9,1863.7,45.2
-22,Ole Miss,SEC,4,18.5,26.0,69.1,1883.4,44.5
-23,Virginia,ACC,6,23.9,20.4,67.7,1999.0,44.3
-24,Texas A&M,SEC,5,21.9,22.2,71.4,1961.2,44.2
-25,Utah State,Pac-12,5,27.0,17.0,69.3,1788.2,44.0
-26,Saint Mary's,WCC,5,26.2,17.4,67.0,1844.7,43.6
-27,Purdue,Big Ten,5,27.0,15.6,66.1,1956.9,42.6
-28,Iowa State,Big 12,4,15.6,26.9,68.6,1951.9,42.5
-29,LSU,SEC,5,18.3,24.1,70.0,1848.0,42.4
-30,Saint Louis,A-10,4,21.8,20.4,70.6,1775.4,42.2
-31,Miami,ACC,5,16.2,25.7,69.1,1880.0,42.0
-32,USC,Big Ten,4,21.0,20.7,70.6,1876.2,41.8
-33,Iowa,Big Ten,4,23.7,17.8,66.2,1897.0,41.5
-34,Cincinnati,Big 12,5,15.7,25.6,68.4,1927.7,41.3
-35,Auburn,SEC,5,23.5,17.4,68.7,1908.8,40.9
-36,West Virginia,Big 12,6,18.0,22.8,66.8,1903.8,40.8
-37,Oklahoma State,Big 12,4,20.6,19.8,72.0,1848.2,40.4
+18,Alabama,SEC,5,28.7,16.8,73.4,2025.5,45.4
+19,Tennessee,SEC,4,16.0,29.4,67.3,2035.0,45.4
+20,Baylor,Big 12,5,23.4,21.8,68.9,1863.7,45.2
+21,Texas,SEC,5,25.6,19.5,68.8,1954.9,45.1
+22,USC,Big Ten,5,22.8,22.3,70.5,1882.5,45.0
+23,Ole Miss,SEC,4,18.5,26.0,69.1,1883.4,44.5
+24,Texas A&M,SEC,6,23.3,21.1,71.7,1986.0,44.5
+25,Virginia,ACC,6,23.9,20.4,67.7,1999.0,44.3
+26,Utah State,Pac-12,5,27.0,17.0,69.4,1788.2,44.0
+27,Saint Mary's,WCC,5,26.2,17.4,67.0,1844.7,43.6
+28,Purdue,Big Ten,5,27.0,15.6,66.2,1956.9,42.6
+29,Iowa State,Big 12,4,15.6,26.9,68.7,1951.9,42.5
+30,LSU,SEC,5,18.3,24.1,70.0,1848.0,42.4
+31,Saint Louis,A-10,4,21.8,20.4,70.7,1775.4,42.2
+32,Miami,ACC,5,16.2,25.7,69.1,1880.0,42.0
+33,Iowa,Big Ten,4,23.7,17.8,66.3,1897.0,41.5
+34,Minnesota,Big Ten,6,21.7,19.8,65.6,1889.8,41.5
+35,Cincinnati,Big 12,5,15.7,25.6,68.4,1927.7,41.3
+36,West Virginia,Big 12,6,18.0,22.8,66.9,1903.8,40.8
+37,NC State,ACC,5,22.5,17.5,69.0,1868.2,40.0
 38,Marquette,Big East,5,13.9,26.1,69.5,1811.5,40.0
-39,NC State,ACC,4,22.3,17.5,68.7,1853.1,39.8
-40,Louisville,ACC,3,22.1,17.6,69.8,1834.0,39.8
-41,Indiana,Big Ten,5,22.8,16.6,67.9,1909.5,39.5
-42,Minnesota,Big Ten,5,19.1,19.9,65.7,1857.6,39.0
-43,New Mexico,Mountain West,4,21.5,17.4,70.6,1793.0,38.8
+39,Auburn,SEC,6,22.3,17.3,68.7,1878.4,39.6
+40,Indiana,Big Ten,5,22.8,16.6,68.0,1909.5,39.5
+41,New Mexico,Mountain West,4,21.5,17.4,70.6,1793.0,38.8
+42,Ohio State,Big Ten,6,24.2,14.4,68.0,1903.8,38.6
+43,Virginia Tech,ACC,6,23.4,14.9,68.9,1877.7,38.3
 44,Georgia,SEC,5,22.4,15.8,70.5,1950.4,38.2
 45,Arkansas,SEC,5,22.5,15.6,71.0,1953.6,38.1
-46,TCU,Big 12,4,16.9,21.2,69.5,1945.8,38.1
-47,DePaul,Big East,5,14.3,23.7,67.6,1841.1,38.0
-48,North Carolina,ACC,4,17.4,20.1,69.5,1865.6,37.4
-49,Virginia Tech,ACC,5,22.3,15.0,68.9,1856.1,37.2
-50,Ohio State,Big Ten,5,23.2,13.5,67.8,1899.2,36.6
-51,George Washington,A-10,5,16.8,19.4,69.2,1725.4,36.2
-52,Pittsburgh,ACC,5,14.5,21.4,67.1,1855.5,35.9
-53,Wisconsin,Big Ten,4,17.0,18.8,69.3,1971.3,35.8
-54,Florida State,ACC,5,22.1,13.6,70.0,1838.0,35.7
-55,San Diego State,Pac-12,5,15.6,19.9,69.4,1768.7,35.6
-56,Arizona State,Big 12,5,17.9,17.2,69.1,1891.5,35.1
-57,Xavier,Big East,5,11.1,24.0,71.2,1846.8,35.1
-58,High Point,Big South,5,12.3,22.5,69.7,1738.1,34.8
-59,Notre Dame,ACC,6,23.3,11.5,68.7,1787.2,34.7
-60,Oregon,Big Ten,3,21.5,12.5,67.8,1829.2,33.9
+46,DePaul,Big East,5,14.3,23.7,67.7,1841.1,38.0
+47,TCU,Big 12,5,18.1,19.6,69.7,1921.0,37.7
+48,Oklahoma State,Big 12,5,20.7,16.9,71.9,1816.0,37.6
+49,North Carolina,ACC,4,17.4,20.1,69.6,1865.6,37.4
+50,Louisville,ACC,4,20.7,16.5,69.8,1836.7,37.3
+51,Florida State,ACC,6,20.9,15.2,70.2,1843.3,36.1
+52,Notre Dame,ACC,7,23.3,12.6,68.7,1817.6,36.0
+53,Pittsburgh,ACC,5,14.5,21.4,67.1,1855.5,35.9
+54,San Diego State,Pac-12,5,15.6,19.9,69.4,1768.7,35.6
+55,Arizona State,Big 12,5,17.9,17.2,69.1,1891.5,35.1
+56,Xavier,Big East,5,11.1,24.0,71.2,1846.8,35.1
+57,High Point,Big South,6,13.8,21.2,69.7,1748.6,35.1
+58,Wisconsin,Big Ten,5,18.1,16.5,69.2,1940.8,34.6
+59,Seton Hall,Big East,5,9.2,24.6,67.1,1879.1,33.8
+60,George Washington,A-10,6,16.4,17.4,69.2,1697.6,33.8
 61,Grand Canyon,Mountain West,4,16.3,17.3,69.8,1785.8,33.6
-62,Santa Clara,WCC,5,17.5,15.8,70.6,1837.9,33.3
-63,Mississippi State,SEC,5,18.4,14.9,70.2,1821.3,33.3
+62,VCU,A-10,4,18.5,14.8,69.0,1832.6,33.3
+63,Mississippi State,SEC,5,18.4,14.9,70.3,1821.3,33.3
 64,Kentucky,SEC,5,19.1,13.6,69.4,1914.9,32.7
-65,Syracuse,ACC,5,16.4,16.3,69.5,1741.5,32.7
+65,Syracuse,ACC,5,16.4,16.3,69.6,1741.5,32.7
 66,Kansas State,Big 12,4,16.4,16.2,70.6,1805.4,32.6
-67,Seton Hall,Big East,4,6.9,25.6,67.2,1848.6,32.6
-68,Memphis,American,4,21.4,10.8,70.6,1702.1,32.2
-69,Providence,Big East,5,12.1,20.0,70.7,1823.5,32.2
-70,Georgetown,Big East,5,19.6,12.5,67.8,1872.3,32.1
-71,VCU,A-10,3,18.4,13.4,68.8,1801.6,31.8
-72,Maryland,Big Ten,4,19.3,12.4,68.2,1779.7,31.7
+67,Memphis,American,4,21.4,10.8,70.6,1702.1,32.2
+68,Providence,Big East,5,12.1,20.0,70.7,1823.5,32.2
+69,Georgetown,Big East,5,19.6,12.5,67.9,1872.3,32.1
+70,Santa Clara,WCC,6,16.4,15.7,70.7,1806.9,32.1
+71,Rutgers,Big Ten,6,19.8,12.1,69.2,1802.2,32.0
+72,Maryland,Big Ten,4,19.3,12.4,68.3,1779.7,31.7
 73,Clemson,ACC,5,20.5,10.9,66.6,1832.7,31.4
 74,Wyoming,Mountain West,5,15.5,15.8,67.5,1734.6,31.4
-75,Villanova,Big East,5,15.2,16.0,68.0,1828.4,31.2
+75,Villanova,Big East,5,15.2,16.0,68.1,1828.4,31.2
 76,Nevada,Mountain West,5,14.5,16.6,68.7,1723.8,31.1
-77,Wake Forest,ACC,5,15.1,15.9,68.7,1801.0,31.0
-78,Wichita State,American,5,15.4,15.5,69.5,1761.6,30.9
-79,Boise State,Pac-12,4,18.9,11.8,69.0,1694.6,30.7
-80,South Carolina,SEC,5,15.8,14.2,67.4,1835.5,30.0
-81,Rutgers,Big Ten,5,19.3,10.6,69.1,1770.1,29.9
-82,SMU,ACC,5,16.7,13.2,69.9,1817.1,29.9
-83,Creighton,Big East,5,12.5,17.3,69.1,1803.5,29.8
-84,South Florida,American,5,17.9,11.6,71.3,1761.2,29.4
-85,Wright State,Horizon,5,16.7,12.7,69.1,1695.9,29.4
-86,UC Santa Barbara,Big West,4,15.3,13.9,67.8,1638.6,29.3
-87,Butler,Big East,5,15.9,13.1,70.0,1715.4,29.0
-88,Stanford,ACC,5,13.0,15.6,67.8,1805.9,28.6
+77,Oregon,Big Ten,4,19.3,11.7,67.9,1782.0,31.0
+78,Wake Forest,ACC,5,15.1,15.9,68.8,1801.0,31.0
+79,Wichita State,American,5,15.4,15.5,69.5,1761.6,30.9
+80,Boise State,Pac-12,4,18.9,11.8,69.0,1694.6,30.7
+81,Illinois State,MVC,6,18.2,12.3,67.7,1675.6,30.5
+82,South Carolina,SEC,5,15.8,14.2,67.4,1835.5,30.0
+83,SMU,ACC,5,16.7,13.2,70.0,1817.1,29.9
+84,Creighton,Big East,5,12.5,17.3,69.1,1803.5,29.8
+85,South Florida,American,5,17.9,11.6,71.3,1761.2,29.4
+86,Wright State,Horizon,5,16.7,12.7,69.1,1695.9,29.4
+87,UC Santa Barbara,Big West,5,17.1,12.1,67.8,1660.5,29.3
+88,Oregon State,Pac-12,6,16.3,12.7,68.3,1704.3,29.0
 89,UCF,Big 12,5,19.8,8.5,70.4,1867.1,28.4
-90,Murray State,MVC,5,14.3,13.9,70.7,1690.8,28.3
+90,Murray State,MVC,6,14.4,13.8,70.9,1675.7,28.1
 91,Boston College,ACC,5,12.3,15.8,67.5,1746.5,28.1
-92,Illinois State,MVC,5,15.7,11.6,67.4,1674.5,27.3
-93,North Texas,American,4,9.3,17.8,67.3,1660.4,27.2
-94,Tulsa,American,4,16.5,10.7,69.6,1755.5,27.2
-95,McNeese,Southland,3,20.6,6.4,68.2,1643.3,27.0
-96,Richmond,A-10,5,13.0,14.0,68.7,1611.1,27.0
-97,St. Bonaventure,A-10,4,14.1,12.9,67.9,1642.2,27.0
-98,Oregon State,Pac-12,5,15.7,11.0,68.2,1657.2,26.7
-99,Washington,Big Ten,3,17.0,9.5,68.5,1856.4,26.6
+92,Stanford,ACC,6,13.8,14.2,67.6,1809.7,28.0
+93,Butler,Big East,6,15.1,12.8,70.1,1722.3,28.0
+94,North Texas,American,4,9.3,17.8,67.4,1660.4,27.2
+95,Tulsa,American,4,16.5,10.7,69.6,1755.5,27.2
+96,California,ACC,6,14.2,12.9,70.0,1761.7,27.1
+97,McNeese,Southland,3,20.6,6.4,68.2,1643.3,27.0
+98,Richmond,A-10,5,13.0,14.0,68.7,1611.1,27.0
+99,Washington,Big Ten,4,17.7,9.1,68.3,1860.7,26.8
 100,Pacific,WCC,5,8.9,17.5,67.2,1667.8,26.5
-101,Texas State,Pac-12,6,14.0,12.2,68.4,1648.6,26.3
-102,Colorado,Big 12,5,11.5,14.1,69.5,1753.3,25.7
-103,Charleston,CAA,4,14.5,11.2,70.1,1643.8,25.7
+101,Texas State,Pac-12,6,14.0,12.2,68.5,1648.6,26.3
+102,St. Bonaventure,A-10,5,14.4,11.7,67.8,1653.2,26.2
+103,Colorado,Big 12,5,11.5,14.1,69.5,1753.3,25.7
 104,Rhode Island,A-10,5,11.3,14.3,68.6,1665.8,25.6
 105,Penn State,Big Ten,6,16.2,9.1,68.8,1747.5,25.3
-106,UNC Wilmington,CAA,5,11.8,13.5,68.9,1643.9,25.3
+106,UNC Wilmington,CAA,5,11.8,13.5,69.0,1643.9,25.3
 107,Valparaiso,MVC,4,9.5,15.5,68.7,1646.1,25.1
 108,Southern Illinois,MVC,4,9.0,15.9,69.5,1588.9,24.9
-109,California,ACC,5,13.5,10.9,70.0,1754.6,24.5
-110,Colorado State,Pac-12,5,11.2,13.3,67.3,1633.6,24.5
-111,Montana State,Big Sky,5,10.7,13.3,67.7,1553.1,24.1
-112,UNLV,Mountain West,5,13.9,10.0,70.0,1737.8,23.9
-113,George Mason,A-10,5,8.9,14.9,66.0,1680.5,23.7
-114,Oklahoma,SEC,5,14.9,8.8,68.5,1895.7,23.7
-115,Liberty,CUSA,4,16.3,7.2,66.7,1634.2,23.4
-116,Kennesaw State,CUSA,5,8.7,14.7,71.7,1642.5,23.4
-117,UIC,MVC,5,10.9,12.4,68.1,1673.6,23.4
-118,Belmont,MVC,5,8.2,15.1,69.8,1682.2,23.4
-119,Northwestern,Big Ten,5,10.3,12.6,66.2,1732.8,23.0
-120,Akron,MAC,4,9.2,13.7,69.7,1660.6,23.0
-121,Sam Houston,CUSA,5,12.1,10.5,70.6,1620.4,22.5
-122,Saint Joseph's,A-10,5,5.4,16.9,69.7,1761.8,22.3
-123,Columbia,Ivy,5,9.8,12.4,68.9,1600.9,22.2
-124,Furman,SoCon,6,12.8,9.5,68.5,1623.1,22.2
-125,Stephen F. Austin,Southland,4,10.2,12.0,68.5,1574.3,22.2
-126,Dayton,A-10,5,12.3,9.8,68.6,1658.0,22.1
-127,UC Irvine,Big West,4,4.1,17.9,70.4,1651.4,22.0
-128,Utah,Big 12,4,8.3,13.6,67.9,1733.3,21.9
+109,Portland State,Big Sky,6,11.2,13.7,70.2,1543.5,24.8
+110,Colorado State,Pac-12,5,11.2,13.3,67.4,1633.6,24.5
+111,Montana State,Big Sky,6,12.0,11.8,67.7,1542.6,23.8
+112,George Mason,A-10,5,8.9,14.9,66.0,1680.5,23.7
+113,Oklahoma,SEC,5,14.9,8.8,68.5,1895.7,23.7
+114,Liberty,CUSA,4,16.3,7.2,66.7,1634.2,23.4
+115,Kennesaw State,CUSA,5,8.7,14.7,71.7,1642.5,23.4
+116,UIC,MVC,5,10.9,12.4,68.1,1673.6,23.4
+117,Belmont,MVC,5,8.2,15.1,69.8,1682.2,23.4
+118,Akron,MAC,4,9.2,13.7,69.8,1660.6,23.0
+119,Sam Houston,CUSA,5,12.1,10.5,70.7,1620.4,22.5
+120,Charleston,CAA,5,13.6,8.8,70.1,1610.6,22.3
+121,Saint Joseph's,A-10,5,5.4,16.9,69.7,1761.8,22.3
+122,Columbia,Ivy,5,9.8,12.4,68.9,1600.9,22.2
+123,Furman,SoCon,6,12.8,9.5,68.5,1623.1,22.2
+124,Stephen F. Austin,Southland,4,10.2,12.0,68.5,1574.3,22.2
+125,Dayton,A-10,5,12.3,9.8,68.6,1658.0,22.1
+126,UC Irvine,Big West,4,4.1,17.9,70.4,1651.4,22.0
+127,Utah,Big 12,4,8.3,13.6,68.0,1733.3,21.9
+128,UNLV,Mountain West,6,12.5,9.4,70.1,1705.6,21.9
 129,Davidson,A-10,5,6.8,15.1,66.8,1637.1,21.9
-130,South Dakota State,Summit,5,6.5,15.1,68.3,1589.6,21.7
-131,Utah Valley,Big West,3,8.5,13.0,70.0,1690.0,21.5
-132,App State,Sun Belt,4,6.6,14.6,65.9,1602.0,21.2
-133,Lamar,Southland,4,9.9,11.3,69.1,1451.3,21.2
-134,Portland State,Big Sky,5,9.3,11.9,69.9,1540.6,21.2
-135,Western Kentucky,CUSA,5,2.8,18.3,70.8,1566.4,21.1
-136,San Francisco,WCC,5,8.5,12.4,67.9,1641.6,20.8
-137,Marshall,Sun Belt,5,5.6,15.0,70.4,1520.2,20.7
-138,James Madison,Sun Belt,5,12.0,8.7,68.0,1611.2,20.7
-139,Seattle U,WCC,5,4.3,16.3,68.7,1648.6,20.5
-140,Towson,CAA,6,-0.0,20.1,66.6,1572.5,20.0
-141,Georgia Tech,ACC,5,7.6,12.2,70.8,1705.3,19.8
-142,Northern Iowa,MVC,6,10.7,9.1,67.1,1660.7,19.8
-143,Fordham,A-10,5,7.8,12.0,68.3,1666.5,19.7
-144,Charlotte,American,5,11.0,8.4,66.5,1637.7,19.4
-145,South Alabama,Sun Belt,6,13.6,5.8,67.9,1527.5,19.3
-146,Western Michigan,MAC,5,8.0,11.0,68.4,1538.7,19.0
-147,UAB,American,5,10.5,8.4,70.3,1639.1,19.0
-148,Eastern Michigan,MAC,4,7.1,11.7,68.1,1484.6,18.8
-149,Toledo,MAC,5,7.5,11.2,69.3,1592.1,18.7
-150,Hawai'i,Big West,5,4.4,14.0,69.6,1620.5,18.4
-151,Loyola Marymount,WCC,5,8.5,9.8,68.3,1555.7,18.3
-152,Yale,Ivy,6,12.5,5.7,67.5,1607.1,18.2
-153,East Tennessee State,SoCon,4,6.5,11.6,67.0,1524.6,18.1
-154,Loyola Chicago,A-10,5,7.0,11.0,68.1,1607.0,18.0
-155,Louisiana Tech,Sun Belt,5,3.9,13.7,67.0,1569.9,17.6
-156,Lipscomb,ASUN,6,9.5,8.0,69.6,1531.3,17.5
-157,Miami (OH),MAC,4,11.5,6.0,70.5,1714.1,17.4
-158,Central Arkansas,UAC,5,7.2,9.7,70.0,1592.8,17.0
-159,Monmouth,CAA,4,6.9,10.0,68.7,1569.0,16.9
-160,Chattanooga,SoCon,5,11.2,5.7,68.8,1519.5,16.9
-161,Stony Brook,CAA,4,6.7,10.3,68.1,1489.3,16.9
-162,Drake,MVC,4,7.8,9.1,67.9,1591.3,16.9
-163,Old Dominion,Sun Belt,6,5.9,10.6,68.9,1552.2,16.5
-164,Ohio,MAC,4,11.8,4.7,69.5,1555.7,16.4
-165,Portland,WCC,6,9.6,6.9,70.9,1605.9,16.4
-166,Florida Gulf Coast,ASUN,6,11.6,4.5,68.2,1432.7,16.1
-167,Florida Atlantic,American,5,8.3,7.8,70.4,1634.1,16.1
-168,Washington State,Pac-12,5,13.5,2.6,69.0,1543.4,16.1
-169,Delaware,CUSA,5,3.6,12.3,67.5,1487.6,15.9
-170,Arkansas State,Sun Belt,5,5.7,10.2,71.9,1521.2,15.9
-171,UT Arlington,UAC,6,5.6,10.1,69.0,1624.9,15.7
-172,Hofstra,CAA,5,2.8,13.0,67.2,1603.6,15.7
-173,St. Thomas-Minnesota,Summit,6,14.5,1.2,68.8,1547.3,15.7
-174,Tennessee Tech,SoCon,6,10.1,5.6,69.8,1498.0,15.7
-175,Temple,American,4,7.6,8.1,67.5,1570.6,15.6
-176,Elon,CAA,5,7.3,8.3,68.2,1477.8,15.6
-177,Eastern Washington,Big Sky,5,10.3,5.3,69.2,1525.7,15.6
-178,Middle Tennessee,CUSA,5,9.9,5.6,69.0,1631.8,15.5
-179,Bowling Green,MAC,4,9.3,6.1,69.8,1546.5,15.4
-180,Jacksonville State,CUSA,5,6.4,9.0,67.9,1533.2,15.3
-181,UT Martin,OVC,5,2.7,12.6,68.7,1486.2,15.3
-182,Indiana State,MVC,4,5.4,9.8,70.1,1516.8,15.2
-183,Duquesne,A-10,5,5.6,9.6,68.3,1677.0,15.2
-184,Missouri State,CUSA,4,5.7,9.4,67.9,1587.4,15.2
-185,Bradley,MVC,6,0.7,14.5,68.5,1588.1,15.2
-186,UT Rio Grande Valley,Southland,5,2.3,12.6,69.1,1495.8,14.9
-187,Troy,Sun Belt,5,6.7,7.9,68.3,1564.4,14.7
-188,Southeast Missouri State,OVC,5,5.2,9.5,69.7,1476.2,14.6
-189,William & Mary,CAA,5,9.4,5.1,71.9,1577.9,14.5
-190,Austin Peay,UAC,5,0.3,14.2,69.9,1557.2,14.5
-191,Northern Colorado,Big Sky,5,6.0,8.5,70.4,1480.1,14.4
-192,Vermont,Am. East,5,7.9,6.5,66.2,1478.4,14.4
-193,UTEP,Mountain West,4,2.7,11.7,68.2,1589.9,14.3
-194,Denver,WCC,4,7.9,6.4,68.5,1512.6,14.3
-195,Colgate,Patriot,5,8.8,5.5,68.8,1398.7,14.3
-196,Eastern Kentucky,UAC,5,3.1,11.2,70.8,1501.5,14.3
-197,Milwaukee,Horizon,5,4.8,9.5,69.3,1488.6,14.3
-198,Tulane,American,4,7.8,6.4,69.3,1571.4,14.2
-199,East Carolina,American,4,3.3,10.9,69.4,1570.4,14.2
-200,Pepperdine,WCC,4,8.8,5.4,69.6,1526.6,14.1
-201,Pennsylvania,Ivy,5,3.1,11.0,70.3,1595.6,14.1
-202,San Diego,WCC,5,10.1,4.0,69.4,1594.6,14.1
-203,Princeton,Ivy,5,3.7,10.4,66.5,1511.8,14.0
-204,Florida International,CUSA,4,5.7,7.8,71.8,1571.7,13.6
-205,Massachusetts,MAC,4,4.3,9.2,70.3,1516.9,13.5
-206,Rice,American,5,6.7,6.7,68.9,1584.5,13.4
-207,Tennessee State,OVC,5,4.9,8.4,72.2,1491.2,13.4
-208,Siena,Metro,5,7.8,5.5,68.5,1599.5,13.3
-209,UC Riverside,Big West,5,0.8,12.5,69.8,1507.2,13.3
-210,North Dakota State,Summit,7,8.3,5.0,68.7,1497.9,13.2
-211,Idaho,Big Sky,5,7.2,5.9,69.0,1485.5,13.1
-212,UC San Diego,Big West,4,9.6,3.5,69.1,1607.2,13.1
-213,Cal State Fullerton,Big West,4,5.4,7.7,71.9,1578.2,13.0
-214,UMass Lowell,Am. East,5,3.9,9.1,69.3,1473.4,13.0
-215,Mercer,SoCon,6,8.4,4.6,70.6,1506.3,13.0
-216,Kent State,MAC,4,7.1,5.8,70.2,1488.6,12.9
-217,Robert Morris,Horizon,4,2.5,10.3,67.5,1544.2,12.9
-218,Howard,MEAC,6,4.2,8.7,69.3,1494.5,12.9
-219,Montana,Big Sky,5,2.1,10.5,69.2,1502.4,12.7
-220,Oral Roberts,Summit,5,2.0,10.5,68.8,1413.1,12.5
+130,Northwestern,Big Ten,6,10.3,11.5,66.2,1711.1,21.9
+131,South Dakota State,Summit,5,6.5,15.1,68.3,1589.6,21.7
+132,Utah Valley,Big West,3,8.5,13.0,70.1,1690.0,21.5
+133,UAB,American,6,12.5,8.9,70.2,1667.0,21.4
+134,App State,Sun Belt,4,6.6,14.6,65.9,1602.0,21.2
+135,Lamar,Southland,4,9.9,11.3,69.1,1451.3,21.2
+136,Western Kentucky,CUSA,5,2.8,18.3,70.9,1566.4,21.1
+137,San Francisco,WCC,5,8.5,12.4,67.9,1641.6,20.8
+138,Marshall,Sun Belt,5,5.6,15.0,70.4,1520.2,20.7
+139,James Madison,Sun Belt,5,12.0,8.7,68.0,1611.2,20.7
+140,Seattle U,WCC,5,4.3,16.3,68.8,1648.6,20.5
+141,Drake,MVC,5,10.2,10.0,67.9,1624.5,20.2
+142,Towson,CAA,6,-0.0,20.1,66.6,1572.5,20.0
+143,Georgia Tech,ACC,5,7.6,12.2,70.8,1705.3,19.8
+144,Northern Iowa,MVC,6,10.7,9.1,67.2,1660.7,19.8
+145,Fordham,A-10,5,7.8,12.0,68.3,1666.5,19.7
+146,St. Thomas-Minnesota,Summit,7,16.6,3.1,68.8,1572.6,19.7
+147,Charlotte,American,5,11.0,8.4,66.5,1637.7,19.4
+148,South Alabama,Sun Belt,6,13.6,5.8,67.9,1527.5,19.3
+149,Western Michigan,MAC,5,8.0,11.0,68.4,1538.7,19.0
+150,Toledo,MAC,6,8.5,10.3,69.4,1608.7,18.9
+151,Eastern Michigan,MAC,4,7.1,11.7,68.1,1484.6,18.8
+152,Hawai'i,Big West,5,4.4,14.0,69.6,1620.5,18.4
+153,Loyola Marymount,WCC,5,8.5,9.8,68.3,1555.7,18.3
+154,Yale,Ivy,6,12.5,5.7,67.5,1607.1,18.2
+155,East Tennessee State,SoCon,4,6.5,11.6,67.0,1524.6,18.1
+156,Louisiana Tech,Sun Belt,6,4.1,13.9,67.0,1590.1,18.0
+157,Loyola Chicago,A-10,5,7.0,11.0,68.1,1607.0,18.0
+158,Lipscomb,ASUN,6,9.5,8.0,69.6,1531.3,17.5
+159,Miami (OH),MAC,4,11.5,6.0,70.5,1714.1,17.4
+160,Temple,American,5,9.6,7.6,67.5,1604.0,17.1
+161,Central Arkansas,UAC,5,7.2,9.7,70.1,1592.8,17.0
+162,Monmouth,CAA,4,6.9,10.0,68.7,1569.0,16.9
+163,Chattanooga,SoCon,5,11.2,5.7,68.8,1519.5,16.9
+164,Stony Brook,CAA,4,6.7,10.3,68.2,1489.3,16.9
+165,Old Dominion,Sun Belt,6,5.9,10.6,69.0,1552.2,16.5
+166,Ohio,MAC,4,11.8,4.7,69.5,1555.7,16.4
+167,UTEP,Mountain West,5,4.7,11.8,68.2,1623.7,16.4
+168,Portland,WCC,6,9.6,6.9,70.9,1605.9,16.4
+169,Florida Gulf Coast,ASUN,6,11.6,4.5,68.2,1432.7,16.1
+170,Florida Atlantic,American,5,8.3,7.8,70.4,1634.1,16.1
+171,Washington State,Pac-12,5,13.5,2.6,69.0,1543.4,16.1
+172,Delaware,CUSA,5,3.6,12.3,67.5,1487.6,15.9
+173,Arkansas State,Sun Belt,5,5.7,10.2,71.9,1521.2,15.9
+174,William & Mary,CAA,6,8.1,7.7,71.9,1579.9,15.8
+175,UT Arlington,UAC,6,5.6,10.1,69.1,1624.9,15.7
+176,Hofstra,CAA,5,2.8,13.0,67.2,1603.6,15.7
+177,Tennessee Tech,SoCon,6,10.1,5.6,69.9,1498.0,15.7
+178,Elon,CAA,5,7.3,8.3,68.2,1477.8,15.6
+179,Eastern Washington,Big Sky,5,10.3,5.3,69.3,1525.7,15.6
+180,Bowling Green,MAC,4,9.3,6.1,69.8,1546.5,15.4
+181,Jacksonville State,CUSA,5,6.4,9.0,68.0,1533.2,15.3
+182,UT Martin,OVC,5,2.7,12.6,68.8,1486.2,15.3
+183,Indiana State,MVC,4,5.4,9.8,70.2,1516.8,15.2
+184,Duquesne,A-10,5,5.6,9.6,68.4,1677.0,15.2
+185,Missouri State,CUSA,4,5.7,9.4,67.9,1587.4,15.2
+186,Bradley,MVC,6,0.7,14.5,68.6,1588.1,15.2
+187,UT Rio Grande Valley,Southland,5,2.3,12.6,69.1,1495.8,14.9
+188,Troy,Sun Belt,5,6.7,7.9,68.3,1564.4,14.7
+189,Austin Peay,UAC,5,0.3,14.2,69.9,1557.2,14.5
+190,Northern Colorado,Big Sky,5,6.0,8.5,70.4,1480.1,14.4
+191,Vermont,Am. East,5,7.9,6.5,66.2,1478.4,14.4
+192,Denver,WCC,4,7.9,6.4,68.5,1512.6,14.3
+193,Colgate,Patriot,5,8.8,5.5,68.8,1398.7,14.3
+194,Eastern Kentucky,UAC,5,3.1,11.2,70.8,1501.5,14.3
+195,Milwaukee,Horizon,5,4.8,9.5,69.4,1488.6,14.3
+196,East Carolina,American,4,3.3,10.9,69.4,1570.4,14.2
+197,Pepperdine,WCC,5,10.6,3.6,69.5,1504.7,14.1
+198,Middle Tennessee,CUSA,6,10.3,3.8,69.0,1598.4,14.1
+199,Pennsylvania,Ivy,5,3.1,11.0,70.3,1595.6,14.1
+200,San Diego,WCC,5,10.1,4.0,69.4,1594.6,14.1
+201,Princeton,Ivy,5,3.7,10.4,66.5,1511.8,14.0
+202,Tulane,American,5,7.5,6.2,69.3,1551.1,13.8
+203,Florida International,CUSA,4,5.7,7.8,71.8,1571.7,13.6
+204,Massachusetts,MAC,4,4.3,9.2,70.4,1516.9,13.5
+205,Rice,American,5,6.7,6.7,68.9,1584.5,13.4
+206,Tennessee State,OVC,5,4.9,8.4,72.2,1491.2,13.4
+207,Siena,Metro,5,7.8,5.5,68.5,1599.5,13.3
+208,UC Riverside,Big West,5,0.8,12.5,69.8,1507.2,13.3
+209,North Dakota State,Summit,7,8.3,5.0,68.8,1497.9,13.2
+210,Idaho,Big Sky,5,7.2,5.9,69.0,1485.5,13.1
+211,UC San Diego,Big West,4,9.6,3.5,69.1,1607.2,13.1
+212,Cal State Fullerton,Big West,4,5.4,7.7,72.0,1578.2,13.0
+213,UMass Lowell,Am. East,5,3.9,9.1,69.3,1473.4,13.0
+214,Mercer,SoCon,6,8.4,4.6,70.6,1506.3,13.0
+215,Kent State,MAC,4,7.1,5.8,70.2,1488.6,12.9
+216,Howard,MEAC,6,4.2,8.7,69.4,1494.5,12.9
+217,Northeastern,CAA,5,9.7,3.1,69.7,1476.0,12.8
+218,Robert Morris,Horizon,5,3.6,9.2,67.6,1527.5,12.7
+219,Montana,Big Sky,5,2.1,10.5,69.3,1502.4,12.7
+220,Oral Roberts,Summit,5,2.0,10.5,68.9,1413.1,12.5
 221,Western Carolina,SoCon,5,9.2,3.2,69.2,1495.9,12.4
-222,Cornell,Ivy,5,9.3,3.1,71.2,1525.1,12.4
-223,Dartmouth,Ivy,6,8.5,3.8,69.8,1467.2,12.4
-224,Georgia State,Sun Belt,5,7.1,5.3,69.1,1415.7,12.3
+222,Cornell,Ivy,5,9.3,3.1,71.3,1525.1,12.4
+223,Dartmouth,Ivy,6,8.5,3.8,69.9,1467.2,12.4
+224,Georgia State,Sun Belt,5,7.1,5.3,69.2,1415.7,12.3
 225,Queens University,ASUN,5,18.2,-5.9,70.6,1564.6,12.3
-226,American University,Patriot,4,7.4,4.9,67.2,1443.7,12.3
-227,Lindenwood,OVC,6,1.4,10.7,71.6,1385.6,12.1
-228,San José State,Mountain West,5,14.4,-2.5,67.5,1596.7,11.9
-229,Longwood,Big South,6,3.8,8.1,71.3,1463.7,11.9
-230,Samford,SoCon,4,6.5,5.3,69.7,1529.0,11.8
-231,Abilene Christian,UAC,5,3.9,7.8,69.3,1471.1,11.6
-232,Northeastern,CAA,4,9.4,2.2,69.6,1482.9,11.6
-233,Purdue Fort Wayne,Horizon,5,10.1,1.5,69.2,1495.1,11.6
-234,Oakland,Horizon,7,11.4,0.1,68.9,1482.5,11.5
-235,Houston Christian,Southland,4,4.3,7.2,67.8,1443.4,11.5
-236,Northern Illinois,Horizon,6,7.2,4.1,68.8,1438.1,11.4
-237,Boston University,Patriot,6,9.0,2.3,66.9,1525.6,11.3
-238,Central Michigan,MAC,5,4.5,6.9,68.7,1530.1,11.3
-239,Radford,Big South,5,3.4,7.7,69.7,1426.4,11.0
-240,Harvard,Ivy,6,1.5,9.5,66.4,1522.1,11.0
-241,Youngstown State,Horizon,5,3.5,7.5,69.3,1502.1,10.9
-242,Utah Tech,Big Sky,4,8.2,2.6,69.6,1497.1,10.9
-243,Cal State Bakersfield,Big West,4,5.2,5.5,70.2,1492.8,10.8
-244,La Salle,A-10,5,5.3,5.4,68.5,1524.9,10.7
-245,Cal State Northridge,Big West,4,5.5,5.1,72.8,1532.6,10.6
-246,Fresno State,Pac-12,5,7.0,3.4,69.9,1530.5,10.4
-247,Marist,Metro,5,-0.9,11.3,67.4,1469.9,10.4
-248,Green Bay,Horizon,6,8.1,2.1,66.6,1477.5,10.2
-249,Charleston Southern,Big South,5,3.3,6.9,71.7,1450.9,10.2
-250,Georgia Southern,Sun Belt,5,5.7,4.3,70.7,1486.2,10.0
-251,Wofford,SoCon,6,8.5,1.4,68.4,1484.1,9.9
-252,Long Beach State,Big West,4,3.7,6.2,69.6,1484.9,9.8
+226,Lindenwood,OVC,6,1.4,10.7,71.6,1385.6,12.1
+227,San José State,Mountain West,5,14.4,-2.5,67.5,1596.7,11.9
+228,Longwood,Big South,6,3.8,8.1,71.3,1463.7,11.9
+229,Samford,SoCon,4,6.5,5.3,69.7,1529.0,11.8
+230,American University,Patriot,5,6.2,5.4,67.3,1448.4,11.7
+231,Abilene Christian,UAC,5,3.9,7.8,69.4,1471.1,11.6
+232,Purdue Fort Wayne,Horizon,5,10.1,1.5,69.2,1495.1,11.6
+233,Oakland,Horizon,7,11.4,0.1,68.9,1482.5,11.5
+234,Georgia Southern,Sun Belt,6,6.9,4.5,70.9,1512.6,11.4
+235,Northern Illinois,Horizon,6,7.2,4.1,68.8,1438.1,11.4
+236,Boston University,Patriot,6,9.0,2.3,67.0,1525.6,11.3
+237,Central Michigan,MAC,5,4.5,6.9,68.8,1530.1,11.3
+238,Radford,Big South,5,3.4,7.7,69.7,1426.4,11.0
+239,Harvard,Ivy,6,1.5,9.5,66.4,1522.1,11.0
+240,Youngstown State,Horizon,5,3.5,7.5,69.4,1502.1,10.9
+241,Cal State Bakersfield,Big West,4,5.2,5.5,70.2,1492.8,10.8
+242,La Salle,A-10,5,5.3,5.4,68.5,1524.9,10.7
+243,Utah Tech,Big Sky,5,8.6,2.0,69.5,1492.7,10.6
+244,Cal State Northridge,Big West,4,5.5,5.1,72.8,1532.6,10.6
+245,Fresno State,Pac-12,5,7.0,3.4,69.9,1530.5,10.4
+246,Marist,Metro,5,-0.9,11.3,67.4,1469.9,10.4
+247,Southeast Missouri State,OVC,6,3.1,7.1,69.6,1450.9,10.2
+248,Charleston Southern,Big South,5,3.3,6.9,71.7,1450.9,10.2
+249,Houston Christian,Southland,5,4.1,5.9,67.9,1417.0,9.9
+250,Wofford,SoCon,6,8.5,1.4,68.4,1484.1,9.9
+251,Long Beach State,Big West,4,3.7,6.2,69.6,1484.9,9.8
+252,Green Bay,Horizon,7,6.6,3.2,66.8,1472.2,9.8
 253,Campbell,CAA,5,10.8,-1.1,68.4,1497.4,9.8
 254,Texas A&M-Corpus Christi,Southland,5,0.8,8.9,68.4,1478.2,9.7
 255,Nicholls,Southland,5,-2.6,12.3,69.4,1425.7,9.7
-256,Drexel,CAA,4,1.5,8.1,66.9,1525.4,9.6
-257,Quinnipiac,Metro,5,4.9,4.6,69.6,1480.8,9.6
+256,Buffalo,MAC,5,2.8,6.9,69.4,1469.9,9.6
+257,Drexel,CAA,4,1.5,8.1,66.9,1525.4,9.6
 258,UNC Greensboro,SoCon,5,7.2,2.1,68.5,1467.2,9.3
 259,New Hampshire,Am. East,6,-0.8,10.0,69.5,1399.1,9.2
-260,Cal Poly,Big West,5,1.7,7.5,73.2,1538.0,9.2
-261,Lehigh,Patriot,5,1.1,7.9,68.9,1487.8,9.0
+260,Cal Poly,Big West,5,1.7,7.5,73.3,1538.0,9.2
+261,Lehigh,Patriot,5,1.1,7.9,69.0,1487.8,9.0
 262,UC Davis,Mountain West,5,-3.7,12.6,70.6,1584.9,8.9
-263,Buffalo,MAC,4,1.7,7.2,69.4,1480.9,8.9
-264,Iona,Metro,6,-1.2,10.0,69.3,1448.7,8.8
-265,New Mexico State,CUSA,4,3.9,4.8,67.8,1535.4,8.6
-266,Navy,Patriot,6,-0.1,8.6,67.4,1528.1,8.5
-267,Tarleton State,UAC,5,0.9,7.6,70.3,1517.3,8.5
+263,Iona,Metro,6,-1.2,10.0,69.3,1448.7,8.8
+264,Southern Utah,Big Sky,6,4.9,3.9,71.0,1445.9,8.8
+265,Northern Kentucky,Horizon,6,3.6,5.0,71.0,1521.7,8.5
+266,Navy,Patriot,6,-0.1,8.6,67.5,1528.1,8.5
+267,Quinnipiac,Metro,6,4.0,4.2,69.7,1457.2,8.2
 268,Winthrop,Big South,5,6.1,2.0,71.7,1422.9,8.1
 269,Evansville,MVC,5,3.1,5.0,68.3,1502.5,8.1
-270,Southern Utah,Big Sky,5,4.9,3.0,70.8,1448.2,7.9
-271,South Dakota,Summit,7,5.0,2.8,70.8,1386.5,7.9
-272,SIU Edwardsville,OVC,6,-1.9,9.7,68.2,1412.0,7.8
-273,Bethune-Cookman,SWAC,6,2.0,5.6,70.1,1352.7,7.6
-274,Southern Miss,Sun Belt,5,-1.7,9.1,70.5,1492.7,7.5
-275,Presbyterian,Big South,4,6.6,0.9,67.7,1430.6,7.5
-276,East Texas A&M,Southland,5,1.1,6.1,69.3,1432.4,7.3
-277,North Dakota,Summit,5,6.3,0.9,69.4,1467.5,7.2
-278,Merrimack,Metro,5,-0.3,7.4,65.7,1482.2,7.1
-279,Coastal Carolina,Sun Belt,5,-0.7,7.4,69.0,1510.0,6.7
-280,Army,Patriot,5,3.2,3.4,68.4,1297.4,6.6
-281,UMBC,Am. East,6,-0.6,7.1,69.6,1488.8,6.6
-282,Brown,Ivy,6,-3.6,9.9,68.8,1431.5,6.3
-283,Sacred Heart,Metro,5,5.9,0.3,69.8,1436.6,6.2
-284,Northern Kentucky,Horizon,5,4.2,2.0,70.7,1518.0,6.2
-285,Hampton,CAA,4,-4.7,10.4,67.8,1452.4,5.7
-286,Long Island University,NEC,7,-1.2,6.8,69.6,1394.3,5.6
-287,Jacksonville,ASUN,4,5.2,0.0,66.7,1428.9,5.3
-288,Ball State,MAC,5,-1.5,6.7,67.2,1431.5,5.2
-289,IU Indianapolis,Horizon,5,5.4,-0.3,71.2,1386.8,5.1
-290,Little Rock,UAC,4,9.0,-4.0,68.2,1415.7,5.0
-291,Le Moyne,NEC,5,0.2,4.8,69.9,1347.0,5.0
-292,Sacramento State,Big West,3,-4.5,9.4,71.1,1419.1,4.9
-293,Central Connecticut,NEC,6,2.1,2.9,67.3,1442.3,4.9
-294,Northern Arizona,Big Sky,5,7.3,-2.5,66.6,1372.7,4.9
-295,Lafayette,Patriot,6,-1.9,6.7,68.4,1361.5,4.8
-296,UTSA,American,5,1.0,3.5,70.1,1510.9,4.5
-297,UNC Asheville,Big South,6,3.4,1.0,68.7,1401.5,4.4
+270,South Dakota,Summit,7,5.0,2.8,70.9,1386.5,7.9
+271,Bethune-Cookman,SWAC,6,2.0,5.6,70.1,1352.7,7.6
+272,SIU Edwardsville,OVC,7,-4.3,11.9,68.2,1417.2,7.6
+273,Southern Miss,Sun Belt,6,-0.9,8.4,71.2,1502.1,7.5
+274,Presbyterian,Big South,4,6.6,0.9,67.8,1430.6,7.5
+275,Merrimack,Metro,5,-0.3,7.4,65.7,1482.2,7.1
+276,Coastal Carolina,Sun Belt,5,-0.7,7.4,69.0,1510.0,6.7
+277,Army,Patriot,5,3.2,3.4,68.5,1297.4,6.6
+278,New Mexico State,CUSA,5,3.8,2.7,67.9,1501.5,6.5
+279,North Dakota,Summit,6,5.1,1.3,69.5,1471.1,6.5
+280,Little Rock,UAC,5,9.4,-3.1,68.2,1444.9,6.4
+281,Brown,Ivy,6,-3.6,9.9,68.8,1431.5,6.3
+282,Sacred Heart,Metro,5,5.9,0.3,69.9,1436.6,6.2
+283,Hampton,CAA,4,-4.7,10.4,67.8,1452.4,5.7
+284,Sacramento State,Big West,4,-2.7,8.4,70.9,1415.4,5.7
+285,Long Island University,NEC,7,-1.2,6.8,69.7,1394.3,5.6
+286,Tarleton State,UAC,6,-0.5,6.0,70.2,1511.0,5.5
+287,Ball State,MAC,5,-1.5,6.7,67.3,1431.5,5.2
+288,IU Indianapolis,Horizon,5,5.4,-0.3,71.2,1386.8,5.1
+289,Le Moyne,NEC,5,0.2,4.8,69.9,1347.0,5.0
+290,Central Connecticut,NEC,6,2.1,2.9,67.3,1442.3,4.9
+291,Northern Arizona,Big Sky,5,7.3,-2.5,66.6,1372.7,4.9
+292,Lafayette,Patriot,6,-1.9,6.7,68.4,1361.5,4.8
+293,UMBC,Am. East,7,-1.4,6.2,69.8,1484.2,4.8
+294,East Texas A&M,Southland,6,-0.8,5.4,69.3,1425.2,4.6
+295,UTSA,American,5,1.0,3.5,70.2,1510.9,4.5
+296,UNC Asheville,Big South,6,3.4,1.0,68.8,1401.5,4.4
+297,Jacksonville,ASUN,5,4.3,-0.4,66.7,1399.7,3.9
 298,North Carolina A&T,CAA,5,-0.6,4.5,69.3,1438.8,3.9
-299,North Alabama,UAC,5,-1.6,5.4,68.1,1453.3,3.9
-300,Southern,SWAC,6,-0.4,4.1,70.4,1348.1,3.7
-301,Southern Indiana,OVC,6,-4.2,7.2,69.2,1290.8,3.0
-302,SE Louisiana,Southland,4,1.1,1.7,67.5,1405.6,2.8
-303,UL Monroe,Sun Belt,8,2.7,-0.0,70.6,1315.5,2.6
-304,Wagner,NEC,5,-2.2,4.7,67.6,1359.9,2.5
-305,Bellarmine,ASUN,6,8.3,-5.9,67.0,1387.0,2.4
-306,California Baptist,Big West,5,-1.4,3.5,67.5,1466.8,2.0
-307,North Florida,ASUN,5,-1.3,3.3,71.8,1383.7,2.0
-308,Weber State,Big Sky,5,3.1,-1.2,70.0,1425.5,1.9
-309,Air Force,Mountain West,5,1.3,0.5,69.2,1506.4,1.9
-310,Stetson,ASUN,5,3.7,-1.9,67.9,1385.9,1.8
-311,Maine,Am. East,5,-8.5,10.2,67.4,1301.1,1.8
+299,Stetson,ASUN,6,4.6,-0.8,67.9,1383.2,3.8
+300,Southern,SWAC,6,-0.4,4.1,70.5,1348.1,3.7
+301,Maine,Am. East,6,-8.0,11.2,67.5,1324.7,3.1
+302,North Alabama,UAC,6,-2.4,5.5,68.2,1456.0,3.0
+303,Southern Indiana,OVC,6,-4.2,7.2,69.2,1290.8,3.0
+304,SE Louisiana,Southland,4,1.1,1.7,67.5,1405.6,2.8
+305,UL Monroe,Sun Belt,8,2.7,-0.0,70.6,1315.5,2.6
+306,Wagner,NEC,5,-2.2,4.7,67.7,1359.9,2.5
+307,Bellarmine,ASUN,6,8.3,-5.9,67.0,1387.0,2.4
+308,California Baptist,Big West,5,-1.4,3.5,67.5,1466.8,2.0
+309,North Florida,ASUN,5,-1.3,3.3,71.8,1383.7,2.0
+310,Weber State,Big Sky,5,3.1,-1.2,70.0,1425.5,1.9
+311,Air Force,Mountain West,5,1.3,0.5,69.2,1506.4,1.9
 312,The Citadel,SoCon,5,-1.5,3.2,68.0,1417.6,1.8
-313,Grambling,SWAC,3,-1.5,3.2,68.1,1286.9,1.7
+313,Grambling,SWAC,4,-0.6,2.3,68.8,1277.5,1.7
 314,Northwestern State,Southland,5,-1.4,3.0,66.9,1365.9,1.5
-315,Fairfield,Metro,5,-3.6,5.1,68.5,1487.9,1.5
-316,Bryant,Am. East,6,-7.0,8.5,68.7,1350.6,1.4
-317,Morehead State,OVC,6,4.2,-2.8,67.6,1436.2,1.4
+315,Fairfield,Metro,5,-3.6,5.1,68.6,1487.9,1.5
+316,Bryant,Am. East,6,-7.0,8.5,68.8,1350.6,1.4
+317,Morehead State,OVC,6,4.2,-2.8,67.7,1436.2,1.4
 318,Idaho State,Big Sky,4,3.4,-2.2,67.9,1372.8,1.2
-319,New Haven,NEC,5,-7.5,8.5,66.9,1355.4,1.0
+319,New Haven,NEC,5,-7.5,8.5,67.0,1355.4,1.0
 320,South Carolina Upstate,Big South,6,-1.4,2.1,69.7,1306.4,0.7
 321,Louisiana,Sun Belt,4,-7.9,8.5,66.4,1406.8,0.5
-322,Omaha,Summit,6,-1.9,2.4,68.9,1431.6,0.5
-323,New Orleans,Southland,4,-1.7,1.9,70.4,1458.7,0.2
-324,Mercyhurst,NEC,5,-6.1,6.3,67.5,1365.4,0.2
+322,Omaha,Summit,6,-1.9,2.4,69.0,1431.6,0.5
+323,New Orleans,Southland,4,-1.7,1.9,70.5,1458.7,0.2
+324,Mercyhurst,NEC,5,-6.1,6.3,67.6,1365.4,0.2
 325,West Georgia,UAC,5,-6.5,6.6,69.9,1410.0,0.1
-326,Kansas City,Summit,6,-1.0,0.1,69.2,1356.2,-0.9
+326,Kansas City,Summit,6,-1.0,0.1,69.3,1356.2,-0.9
 327,Cleveland State,Horizon,6,6.8,-7.9,68.9,1419.8,-1.1
-328,Mount St. Mary's,Metro,4,-8.5,7.4,68.9,1425.5,-1.1
+328,Mount St. Mary's,Metro,4,-8.5,7.4,69.0,1425.5,-1.1
 329,Eastern Illinois,OVC,6,-2.4,1.1,67.9,1339.0,-1.3
 330,Alabama A&M,SWAC,5,-6.5,5.0,69.3,1336.9,-1.5
-331,Prairie View A&M,SWAC,6,-2.9,1.0,70.5,1376.5,-1.9
-332,South Carolina State,MEAC,5,-4.7,2.6,69.5,1363.4,-2.0
-333,Binghamton,Am. East,6,-0.8,-1.3,67.1,1330.7,-2.1
-334,Manhattan,Metro,5,-3.0,0.8,69.2,1345.3,-2.2
-335,West Florida,ASUN,6,-3.2,0.9,69.5,1335.0,-2.3
-336,UAlbany,Am. East,5,-5.0,2.6,67.9,1349.7,-2.4
-337,North Carolina Central,MEAC,6,-3.7,1.1,68.6,1250.1,-2.6
-338,Jackson State,SWAC,6,-5.5,2.6,70.4,1334.2,-2.8
+331,UAlbany,Am. East,6,-6.3,4.6,68.0,1363.5,-1.7
+332,Prairie View A&M,SWAC,6,-2.9,1.0,70.6,1376.5,-1.9
+333,South Carolina State,MEAC,5,-4.7,2.6,69.6,1363.4,-2.0
+334,Binghamton,Am. East,6,-0.8,-1.3,67.1,1330.7,-2.1
+335,Manhattan,Metro,5,-3.0,0.8,69.2,1345.3,-2.2
+336,West Florida,ASUN,6,-3.2,0.9,69.6,1335.0,-2.3
+337,North Carolina Central,MEAC,6,-3.7,1.1,68.7,1250.1,-2.6
+338,Jackson State,SWAC,6,-5.5,2.6,70.5,1334.2,-2.8
 339,Saint Peter's,Metro,5,-10.7,7.7,66.3,1404.6,-3.0
 340,Fairleigh Dickinson,NEC,6,-1.4,-1.6,67.7,1362.2,-3.0
-341,Loyola Maryland,Patriot,5,-4.0,0.9,69.5,1322.7,-3.1
-342,VMI,SoCon,6,-6.2,3.1,69.4,1332.9,-3.1
-343,Western Illinois,OVC,5,-0.1,-3.2,67.6,1232.7,-3.3
-344,Incarnate Word,Southland,5,-3.5,-0.0,67.4,1309.7,-3.5
+341,Loyola Maryland,Patriot,5,-4.0,0.9,69.6,1322.7,-3.1
+342,VMI,SoCon,6,-6.2,3.1,69.5,1332.9,-3.1
+343,Incarnate Word,Southland,5,-3.5,-0.0,67.5,1309.7,-3.5
+344,Western Illinois,OVC,6,-2.1,-1.9,67.7,1218.9,-3.9
 345,Bucknell,Patriot,5,-3.8,-0.3,68.1,1314.8,-4.1
-346,Morgan State,MEAC,6,-8.4,4.2,71.3,1321.4,-4.2
-347,Niagara,Metro,4,-6.8,2.4,66.3,1316.0,-4.4
-348,Texas Southern,SWAC,6,-2.9,-1.8,71.1,1293.3,-4.7
-349,Coppin State,MEAC,6,-9.5,4.6,68.7,1228.1,-4.8
+346,Morgan State,MEAC,6,-8.4,4.2,71.4,1321.4,-4.2
+347,Niagara,Metro,4,-6.8,2.4,66.4,1316.0,-4.4
+348,Texas Southern,SWAC,6,-2.9,-1.8,71.2,1293.3,-4.7
+349,Coppin State,MEAC,6,-9.5,4.6,68.8,1228.1,-4.8
 350,Alabama State,SWAC,5,-5.1,-0.7,69.4,1296.8,-5.8
 351,Gardner-Webb,Big South,5,-5.0,-1.0,69.3,1286.5,-6.1
 352,St. Francis (PA),NEC,31,-2.2,-4.0,69.8,1171.6,-6.2
-353,Delaware State,MEAC,5,-8.8,2.5,67.8,1228.6,-6.2
+353,Delaware State,MEAC,5,-8.8,2.5,67.9,1228.6,-6.2
 354,Detroit Mercy,Horizon,4,-2.2,-4.3,69.0,1443.6,-6.5
 355,Norfolk State,MEAC,6,-2.1,-4.4,68.2,1278.4,-6.5
 356,St. Francis Brooklyn,NEC,30,-7.3,0.7,68.2,1269.4,-6.6
 357,Holy Cross,Patriot,5,-7.9,1.0,68.3,1259.4,-6.9
-358,Maryland Eastern Shore,MEAC,6,-11.5,4.0,66.9,1229.8,-7.4
+358,Maryland Eastern Shore,MEAC,7,-9.3,1.7,66.8,1242.9,-7.6
 359,Chicago State,NEC,7,-3.4,-4.5,66.8,1339.8,-7.9
-360,Canisius,Metro,5,-5.7,-3.5,67.4,1365.6,-9.2
+360,Canisius,Metro,5,-5.7,-3.5,67.5,1365.6,-9.2
 361,NJIT,Am. East,7,-11.0,1.8,68.3,1312.3,-9.2
 362,Mississippi Valley State,SWAC,4,-7.7,-2.1,68.4,1124.3,-9.9
 363,Stonehill,NEC,5,-11.8,1.5,68.2,1269.4,-10.2
 364,Rider,Metro,6,-8.4,-2.6,67.6,1285.1,-11.1
 365,Alcorn State,SWAC,6,-8.9,-6.2,68.7,1215.9,-15.2
 366,Savannah State,MEAC,31,-6.6,-8.9,76.4,1182.1,-15.5
-367,Florida A&M,SWAC,6,-11.9,-4.6,69.6,1244.6,-16.5
+367,Florida A&M,SWAC,6,-11.9,-4.6,69.7,1244.6,-16.5
 368,Arkansas-Pine Bluff,SWAC,6,-11.4,-8.7,70.7,1257.4,-20.1
