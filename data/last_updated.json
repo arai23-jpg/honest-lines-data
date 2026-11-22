@@ -1,19 +1,19 @@
 {
-  "checked_utc": "2026-11-21T20:56:16Z",
+  "checked_utc": "2026-11-22T21:07:01Z",
   "cbb": {
     "status": "updated",
     "notebook": "success",
-    "updated_utc": "2026-11-21T20:56:16Z",
-    "upcoming_rows": 25,
-    "leans": 7,
+    "updated_utc": "2026-11-22T21:07:01Z",
+    "upcoming_rows": 18,
+    "leans": 3,
     "teams_rated": 368
   },
   "nfl": {
     "status": "updated",
     "notebook": "success",
-    "updated_utc": "2026-11-21T20:56:16Z",
-    "upcoming_rows": 84,
-    "leans": 18,
+    "updated_utc": "2026-11-22T21:07:01Z",
+    "upcoming_rows": 36,
+    "leans": 2,
     "teams_rated": 32
   }
 }
